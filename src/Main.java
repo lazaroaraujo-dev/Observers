@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        Cliente cliente = new Cliente("Miquéias", "email@email.com");
+        Cliente cliente = new Cliente("Lázaro", "email@email.com");
 
         Pedido pedido = new Pedido("PED-001", "CRIADO", cliente);
 
